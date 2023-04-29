@@ -1,0 +1,116 @@
+
+
+.lfp{
+    width:100px;
+    height: auto;
+    border-color: white;
+    border-radius: 150px;
+    box-sizing: content-box;
+    margin-left: 60%;
+
+
+}
+
+
+.img1{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+   
+    margin-left: 110px;
+    border: 2px;
+
+}
+.img2{width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 115px;
+    border: 2px;
+}
+.img3{ width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+
+    border: 2px;
+}
+.img4{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px; 
+     margin-left: 125px;
+
+     border: 2px;
+
+}
+.img5{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 130px;
+    border: 2px;
+}
+.img6{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+
+    align-items:center ;
+    margin-left: 135px;
+    border: 2px;
+
+   
+}
+.img7{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+   align-content: end;
+   margin-left: 140x;
+   border: 2px;
+}
+
+.img8{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 145px;
+    border: 2px;
+   
+}
+.img9{ width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    border: 2px;
+   }
+.img10{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 155px;
+    border: 2px;
+}
+
+.img11{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-left: 160px;
+
+    border: 2px;
+
+}
+
+.leulpho{
+     width: 200px;
+     height: fit-content;
+     border-color: white;
+     box-sizing: border-box;
+     border-radius: 100px;
+}
+
+
+
+
+
